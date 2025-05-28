@@ -15,12 +15,12 @@ This is a full-stack task management application built using Angular, Node.js, E
 
 ## Features
 
-User authentication with JWT
-Home page as landing page
-Forgot and reset password functionality
-Add, edit, delete, and view tasks
-Filter tasks by status and priority
-Responsive design using Tailwind CSS
+- User authentication with JWT
+- Home page as landing page
+- Forgot and reset password functionality
+- Add, edit, delete, and view tasks
+- Filter tasks by status and priority
+- Responsive design using Tailwind CSS
 
 ## Technologies Used
 
