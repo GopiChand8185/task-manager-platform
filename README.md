@@ -24,15 +24,15 @@ This is a full-stack task management application built using Angular, Node.js, E
 
 ## Technologies Used
 
-Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer
-Frontend: Angular, Tailwind CSS
-Authentication: JSON Web Tokens (JWT)
+- Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer
+- Frontend: Angular, Tailwind CSS
+- Authentication: JSON Web Tokens (JWT)
 
 ## Prerequisites
 
-Node.js (v14.x or later)
-Angular CLI (v18.x or later)
-MongoDB (local or remote instance)
+- Node.js (v14.x or later)
+- Angular CLI (v18.x or later)
+- MongoDB (local or remote instance)
 
 ## Installation
 
