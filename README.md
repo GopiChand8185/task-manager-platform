@@ -5,11 +5,11 @@ This is a full-stack task management application built using Angular, Node.js, E
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#technologies used)
 - [prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Running the application](#Running the application)
-- [API Endpoints](#API Endpoints)
+- [Running the application](#running the application)
+- [API Endpoints](#api endpoints)
 - [Usage](#usage)
 - [License](#license)
 
